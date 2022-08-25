@@ -1,4 +1,4 @@
-<h1 text-align="center">Json-server-aniControl</h1>
+<h1 align="center">Json-server-aniControl</h1>
 
 ##
 
@@ -8,13 +8,11 @@
 
 ##
 
-<h2 text-align="center">Endpoints</h2>
+<h2 align="center">Endpoints</h2>
 
 <p>
     Assim como a documentação do JSON-Server-Auth traz (https://www.npmjs.com/package/json-server-auth), existem 3 endpoints que podem ser utilizados para cadastro e 2 endpoints que podem ser usados para login. Além dos endpoints citados, foi criado o endpoint animesList, que poderá receber diversos dados como será mostrado mais abaixo.
 </p>
-
-##
 
 <h3>Cadastro</h3>
 
@@ -29,9 +27,7 @@
     Você pode ficar a vontade para adicionar qualquer outra propriedade no corpo do cadastro dos usuários.
 </p>
 
-##
-
-<h3>Cadastro</h3>
+<h3>Login</h3>
 
 <ul>
     <li>POST /login</li>
