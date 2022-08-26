@@ -1,7 +1,5 @@
 <h1 align="center">Json-server-aniControl</h1>
 
-##
-
 <p>
     Esse é o repositório criado utilizando JSON-SERVER e JSON-SERVER-AUTH, tendo como principal objetivo ser a base do projeto AniControl, criado para pessoas fãs de animes que desejam controlar melhor o que assistem, quando e como assistem.
 </p>
@@ -37,3 +35,20 @@
 <p>
     Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
 </p>
+
+##
+
+<h3>Animes List</h3>
+
+<p>
+    Endpoint específico para receber dados de animes que poderão ser adicionados e controlados pelo usuário. Existirão basicamente quatro endpoints para requisições, conforme segue abaixo:
+</p>
+
+<span>**Todas as rotas abaixo necessitam de autenticação**</span>
+
+<ul>
+    <li>GET /animesList/:_id</li>
+    <li>POST /animesList</li>
+    <li>PATCH /animesList/:_id</li>
+    <li>DELETE /animesList/:_id</li>
+</ul>
