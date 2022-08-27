@@ -52,7 +52,7 @@ O endpoint de users serve para controlar o fluxo dos usuários realizando login,
 
 <h2 align ='center'> Listando usuários </h2>
 
-### USERS:
+### **USERS**:
 
 `GET /users/:user_id - FORMATO DA RESPOSTA - STATUS 200`
 
@@ -128,9 +128,7 @@ Caso a senha seja menor que 4 caractéres:
 
 ---
 
-## **LOGIN**
-
-<h2 align="center">Login</h3>
+### **LOGIN**:
 
 <ul>
     <li>POST /login</li>
