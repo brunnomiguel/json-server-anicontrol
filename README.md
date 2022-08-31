@@ -188,7 +188,7 @@ Caso a requisição seja bem sucessida:
 		"anime": {},
 		"status": "completed",
 		"rating": 10,
-		"review": "",
+		"episodes": 1,
 		"userId": 3,
 		"id": 1
 	},
@@ -196,7 +196,7 @@ Caso a requisição seja bem sucessida:
 		"anime": {},
 		"status": "completed",
 		"rating": 10,
-		"review": "",
+		"episodes": 1,
 		"userId": 3,
 		"id": 2
 	},
@@ -204,7 +204,7 @@ Caso a requisição seja bem sucessida:
 		"anime": {},
 		"status": "completed",
 		"rating": 10,
-		"review": "",
+		"episodes": 1,
 		"userId": 3,
 		"id": 3
 	},
@@ -212,7 +212,7 @@ Caso a requisição seja bem sucessida:
 		"anime": {},
 		"status": "completed",
 		"rating": 10,
-		"review": "",
+		"episodes": 1,
 		"userId": 3,
 		"id": 4
 	},
@@ -220,7 +220,7 @@ Caso a requisição seja bem sucessida:
 		"anime": {},
 		"status": "completed",
 		"rating": 10,
-		"review": "",
+		"episodes": 1,
 		"userId": 3,
 		"id": 5
 	}
@@ -242,7 +242,7 @@ Caso a requisição seja bem sucessida:
 	"anime": {},
 	"status": "completed",
 	"rating": 10,
-	"review": "",
+	"episodes": 1,
 	"userId": 3
 }
 ```
@@ -254,7 +254,7 @@ Caso a requisição seja bem sucessida:
 	"anime": {},
 	"status": "completed",
 	"rating": 10,
-	"review": "",
+	"episodes": 1,
 	"userId": 3,
 	"id": 5
 }
@@ -274,7 +274,7 @@ Caso a requisição seja bem sucessida:
 	"anime": {},
 	"status": "incompleted",
 	"rating": 20,
-	"review": "iviwubgwrjgweivnewoivbew",
+	"episodes": 20,
 	"userId": 3
 }
 ```
