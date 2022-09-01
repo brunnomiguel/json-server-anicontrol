@@ -241,11 +241,22 @@ Caso a requisição seja bem sucessida:
 {
 	"anime": {},
 	"status": "completed",
+	"favorite": false,
 	"rating": 10,
 	"episodes": 1,
 	"userId": 3
 }
 ```
+
+<p>Lembrando que para o bom uso das estatisticas do usuário, é de suma importância que a requisição de "status" seja com os seguintes valores:</p>
+
+<ul>
+	<li><b>planToWatch</b> - para animes que planeja assistir(Padrão para a primeira inclusão na lista do usuario)</li>
+	<li><b>dropped</b> - para animes que o usuário desistiu de assitir</li>
+	<li><b>onHold</b> - para animes que o usuário parou de assistir por determinado momento</li>
+	<li><b>completed</b> - para animes que o usuário terminou de assistir</li>
+	<li><b>watching</b> - para animes que o usuário está assistindo</li>
+</ul>
 
 <p>Em caso de sucesso a resposta será:</p>
 
