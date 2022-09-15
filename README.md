@@ -145,8 +145,8 @@ A rota de login possui o mesmo endpoint para o uso de acessar as outras rotas da
 
 ```JSON
 {
-	"email": "kenzinhodsa@mail.com",
-	"password": "146d"
+	"email": "animero@mail.com",
+	"password": "123456"
 }
 ```
 

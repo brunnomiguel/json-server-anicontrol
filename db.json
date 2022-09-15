@@ -41,6 +41,13 @@
       "name": "Edson Vinicius",
       "image": "https://i.ibb.co/Rc54m7s/imagem-2022-09-13-201100312.png",
       "id": 6
+    },
+    {
+      "email": "potator@kenzie.com",
+      "password": "$2a$10$NQPpEb6u2wt4h8sMi8L6IeZA6vpfllLnLe9zH7d4neMSwE8hhhHZW",
+      "name": "Guilherme",
+      "image": "https://i.ibb.co/Lxk2jPv/imagem-2022-09-15-191326672.png",
+      "id": 7
     }
   ],
   "animesList": [
